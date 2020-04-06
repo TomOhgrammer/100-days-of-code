@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
+ 
+### Day 0: April 06, 2020
+ 
+**Thoughts:** I want to start with this challenge I guess two month ago but my procrastination skills are much higher than the strength to break through it . But after two weeks of social distancing in my flat I am going to start with this challenge. 
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+At First I will build up my website again so I have a portfolio page. Therefore I decide to use not  just a static website but also don’t want to setup one of the common CMs Systems like Joomla, Wordpress, drupal , etc. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+I read in the last weeks a view articles about head less CMS systems and that you can use them not just for one project but also for multiple website or app projects.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+SO I decide to use the Headless CMS Cockpit, I just give it a try.
 
-**Link to work:** [Calculator App](http://www.example.com)
+** Things done until now: ** 
+1.	Choosing a headless CMS [cockpit](https://getcockpit.com/)
+2.	Installing XAMPP on my Windows machine
+3.	Installing the CMS
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [My website](http://www.toliquid.de)
