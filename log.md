@@ -10,7 +10,7 @@ I read in the last weeks a view articles about head less CMS systems and that yo
 
 SO I decide to use the Headless CMS Cockpit, I just give it a try.
 
-** Things done until now: ** 
+**Things done until now:** 
 1.	Choosing a headless CMS [cockpit](https://getcockpit.com/)
 2.	Installing XAMPP on my Windows machine
 3.	Installing the CMS
