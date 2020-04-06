@@ -14,5 +14,7 @@ SO I decide to use the Headless CMS Cockpit, I just give it a try.
 1.	Choosing a headless CMS [cockpit](https://getcockpit.com/)
 2.	Installing XAMPP on my Windows machine
 3.	Installing the CMS
+4.  Creating new Repos for the Aktual Webpage and adjust the timer to end of April.
+5.  Create a new Repo for the workin progress website
 
 **Link to work:** [My website](http://www.toliquid.de)
