@@ -18,3 +18,9 @@ SO I decide to use the Headless CMS Cockpit, I just give it a try.
 5.  Create a new Repo for the workin progress website
 
 **Link to work:** [My website](http://www.toliquid.de)
+
+### Day 1 April 07, 2020
+
+**What did I do today:** 
+Today I read some articels on [W3C](https://www.w3schools.com/html/default.asp) to learn how to to make some essential things link a menue and work with responsive design for my new website.
+
